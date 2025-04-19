@@ -47,7 +47,7 @@ To fine-tune a BERT-Large model on a dataset consisting of medical text, likely 
 
 ### 1. Clone the Repo
 bash
-git clone https://github.com/your-username/AIDS_Project.git
+git clone https://github.com/mayurmm69/Sentiment_Analysis_on_IMDB-movie-dataset.git
 cd AIDS_Project
 
 
