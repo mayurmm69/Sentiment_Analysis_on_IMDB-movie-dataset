@@ -76,6 +76,3 @@ Launch Jupyter or VS Code to open and run AIDS_Project.ipynb.
 - 🤗 [Hugging Face Transformers](https://huggingface.co/transformers/)
 - 📚 [BERT Research Paper](https://arxiv.org/abs/1810.04805)
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
